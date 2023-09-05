@@ -7,7 +7,7 @@ The data is stored in structured directories within the general base directory n
 - **raw**: This directory contains the original raw data, which is unprocessed and is further divided into:
 
     - *media*: where the table containing the list of all media and their data is stored.
-    - *traffic*: where the .pcapng files from traffic monitoring are stored, grouped by the respective monitoring day.
+    - *traffic*: where the .pcapng files from traffic monitoring are stored, grouped by the respective monitoring day. (Files were not uploaded due to their substantial size)
 
 - **processed**: This directory contains cleaned, transformed, processed, or generated data derived from the raw data and is ready for use. These data are placed in the following subdirectories:
 
